@@ -1,0 +1,10 @@
+// İş yerindeki çalışanların bilgilerini sakladığomız bir sistem
+       // çalışanlar : Yazılımcılar Tasarımcılar Yönetici
+       // proje ekibiseçiliyor gerektiği zaman çalışanlardan birine ikisine yada hepsine erişebilmeli
+       // ekleme çıkarma yapılacak
+
+
+
+Çalışanı component yaptim
+Alttakileri de leaf
+Bi tane de composite diye bi sınıf oluşturup, composite işlemlerini de orda yaptirdim

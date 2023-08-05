@@ -1,0 +1,3 @@
+# AdvancedGame-Demo
+
+Nesne Tabanlı Oyun Girşimim...
